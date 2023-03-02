@@ -4,7 +4,7 @@
 
 I am a graduate of Quantitative Finance and I achieved certified FRM. My interests generally lie in the field of FinTech.
 
-## Skills and Experiences
+##
 ### IT Literacy
 <img src='https://github.com/XiaodongYangQF/XiaodongYangQF/blob/main/icons/python.svg' alt='github' height='30'> <img src='https://github.com/XiaodongYangQF/XiaodongYangQF/blob/main/icons/julia.svg' alt='github' height='30'> <img src='https://github.com/XiaodongYangQF/XiaodongYangQF/blob/main/icons/MySQL.svg' alt='github' height='30'> <img src='https://github.com/XiaodongYangQF/XiaodongYangQF/blob/main/icons/matlab.svg' alt='github' height='30'> <img src='https://github.com/XiaodongYangQF/XiaodongYangQF/blob/main/icons/r.svg' alt='github' height='30'>
 
