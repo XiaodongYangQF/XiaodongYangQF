@@ -2,7 +2,7 @@
 
 # Xiaodong
 
-I am a graduate of Quantitative Finance and I achieved certified FRM. My interests generally lie in the field of FinTech.
+I am a graduate of Quantitative Finance and I achieved certified FRM. My interests generally lie in the field of Derivatives pricing and FinTech.
 
 ##
 ### IT Literacy
