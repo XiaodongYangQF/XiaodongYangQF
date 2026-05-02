@@ -19,28 +19,19 @@ I work with index and ETF option data to recover option-implied distributions an
 ## Current Research Projects
 
 ### 1. Option-Implied Tail Risk and Return Predictability
-
-This project studies how extreme-tail information from S&P 500 index options can improve our understanding of market risk and return predictability.
-
-I recover risk-neutral distributions from option prices and extend the tails using Generalized Extreme Value methods. The project focuses on tail-related measures such as left-tail risk, implied skewness, and implied kurtosis, and examines their predictive power for equity premiums, variance premiums, and market risk.
+- Recover risk-neutral distributions from S&P 500 index options.
+- Extend the tails using GEV-based methods.
+- Study option-implied tail risk, higher moments, and their predictive power for market returns and risk.
 
 ### 2. Risk-Neutral Density Recovery and Density Forecasting
-
-This project compares different methods for recovering risk-neutral probability densities from option prices.
-
-The main methods include:
-
-- Single-derivative density recovery with GEV/GPD tail extension
-- Cumulative Gram-Charlier Series Expansion
-- Direct state price density estimation using spline-based methods
-
-I evaluate the recovered densities using option repricing errors, log scores, CRPS, PIT tests, VaR backtests, and Expected Shortfall performance. I also study the transformation from risk-neutral to physical densities using pricing kernels and risk-aversion parameters.
+- Compare several methods for recovering risk-neutral densities from option prices.
+- Methods include Single Derivative, C-GCSE, and direct state price density estimation.
+- Evaluate density forecasts using log scores, CRPS, PIT tests, VaR, and Expected Shortfall.
 
 ### 3. ETF Option-Implied Distributions and Sectoral Risk
-
-This project extends the option-implied distribution framework from index options to ETF options.
-
-The goal is to study option-implied information across ETFs, especially sector ETFs, and examine how sector-level option-implied distributions reflect market expectations, downside risk, and cross-sectional risk differences.
+- Extend the option-implied distribution framework from index options to ETF options.
+- Study sector-level option-implied information and downside risk.
+- Explore applications in risk management and cross-sectional market analysis.
 
 ## Technical Skills
 
