@@ -1,6 +1,6 @@
 ![Quantitative Finance](https://github.com/XiaodongYangQF/xiaodong/blob/main/Banner13.gif)
 
-# Xiaodong
+# Xiaodong Yang
 
 I am a PhD candidate in Quantitative Finance. My research focuses on option-implied information, risk-neutral and physical probability distributions, tail risk, and density forecasting.
 
