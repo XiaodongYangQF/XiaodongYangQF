@@ -1,4 +1,4 @@
-![Quantitative Finance](https://github.com/XiaodongYangQF/xiaodong/blob/main/Banner13.gif)
+![Quantitative Finance](https://github.com/XiaodongYangQF/xiaodong/blob/main/Banner13——rep.gif)
 
 # Xiaodong Yang
 
