@@ -2,46 +2,35 @@
 
 # Xiaodong Yang
 
-I am a PhD candidate in Quantitative Finance. My research focuses on option-implied information, risk-neutral and physical probability distributions, tail risk, and density forecasting.
+I am a PhD candidate in Quantitative Finance at UCD, working on option-implied information, risk-neutral density recovery, tail risk, and financial forecasting.
 
-I work with index and ETF option data to recover option-implied distributions and study their applications in return prediction, risk measurement, and financial forecasting. I am also a certified FRM holder.
+My GitHub focuses on derivatives pricing, risk modelling, numerical methods, and quantitative finance research tools.
+
+## Featured Projects
+
+| Project | Focus | Methods |
+|---|---|---|
+| [quant-finance-pricing-lab](...) | Derivatives pricing and numerical methods | Black-Scholes, Greeks, IV, binomial trees, Monte Carlo, finite difference |
+| [quant-interview-notes](...) | Quant interview preparation | Probability, stochastic calculus, derivatives, coding |
+| [frm-study-notes](...) | Financial risk management notes | Market risk, credit risk, operational risk |
+| fem-option-pricing | Option pricing with finite element methods | PDE, FEM, numerical analysis |
 
 ## Research Interests
 
-- Option-implied information
-- Risk-neutral and physical density estimation
-- Implied volatility and option pricing
+- Option-implied information and risk-neutral density recovery
 - Tail risk, VaR, and Expected Shortfall
 - Density forecasting and predictive evaluation
-- Stochastic discount factors and pricing kernels
+- Derivatives pricing and numerical methods
 - Machine learning applications in financial markets
-
-## Current Research Projects
-
-### 1. Option-Implied Tail Risk and Return Predictability
-- Recover risk-neutral distributions from S&P 500 index options.
-- Extend the tails using GEV-based methods.
-- Study option-implied tail risk, higher moments, and their predictive power for market returns and risk.
-
-### 2. Risk-Neutral Density Recovery and Density Forecasting
-- Compare several methods for recovering risk-neutral densities from option prices.
-- Methods include Single Derivative, C-GCSE, and direct state price density estimation.
-- Evaluate density forecasts using log scores, CRPS, PIT tests, VaR, and Expected Shortfall.
-
-### 3. ETF Option-Implied Distributions and Sectoral Risk
-- Extend the option-implied distribution framework from index options to ETF options.
-- Study sector-level option-implied information and downside risk.
-- Explore applications in risk management and cross-sectional market analysis.
 
 ## Technical Skills
 
 <img src='https://github.com/XiaodongYangQF/XiaodongYangQF/blob/main/icons/python.svg' alt='github' height='30'> <img src='https://github.com/XiaodongYangQF/XiaodongYangQF/blob/main/icons/julia.svg' alt='github' height='30'> <img src='https://github.com/XiaodongYangQF/XiaodongYangQF/blob/main/icons/MySQL.svg' alt='github' height='30'> <img src='https://github.com/XiaodongYangQF/XiaodongYangQF/blob/main/icons/matlab.svg' alt='github' height='30'> <img src='https://github.com/XiaodongYangQF/XiaodongYangQF/blob/main/icons/r.svg' alt='github' height='30'>
 
 **Programming:** Python, R, MATLAB, SQL  
-**Data Analysis:** NumPy, pandas, SciPy, scikit-learn  
-**Quantitative Finance:** option pricing, implied volatility, risk-neutral density, stochastic calculus  
-**Risk Management:** VaR, Expected Shortfall, tail risk, density forecasting  
-**Machine Learning:** feature selection, clustering, LSTM, financial forecasting  
+**Quantitative Finance:** option pricing, implied volatility, risk-neutral density, VaR, ES  
+**Data Science:** NumPy, pandas, SciPy, scikit-learn, time-series modelling  
+**Numerical Methods:** Monte Carlo, finite difference, finite element methods
 
 ## Selected Research Keywords
 
