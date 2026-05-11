@@ -13,7 +13,6 @@
 </p>
 
 <p align="center">
-  &nbsp;&nbsp;
   <a href="https://github.com/XiaodongYangQF">
     <img src="icons/github_1.svg" alt="GitHub" width="28">
   </a>
