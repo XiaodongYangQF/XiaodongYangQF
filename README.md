@@ -44,17 +44,17 @@ My GitHub is used as a technical portfolio for quantitative finance, derivatives
 <tr>
 <td width="33%" align="center" valign="top">
 <a href="https://github.com/XiaodongYangQF/quant-finance-pricing-lab">
-<img src="icons/quant-finance-pricing-lab.png" alt="quant-finance-pricing-lab" width="300">
+<img src="icons/quant-finance-pricing-lab.png" alt="quant-finance-pricing-lab" width="100%">
 </a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="https://github.com/XiaodongYangQF/quant-interview-notes">
-<img src="icons/quant-interview-notes.png" alt="quant-interview-notes" width="300">
+<img src="icons/quant-interview-notes.png" alt="quant-interview-notes" width="100%">
 </a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="https://github.com/XiaodongYangQF/frm-study-notes">
-<img src="icons/frm-study-notes.png" alt="frm-study-notes" width="300">
+<img src="icons/frm-study-notes.png" alt="frm-study-notes" width="100%">
 </a>
 </td>
 </tr>
