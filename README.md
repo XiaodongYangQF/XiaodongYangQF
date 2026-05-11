@@ -5,13 +5,27 @@
 <h1 align="center">Xiaodong Yang</h1>
 
 <p align="center">
+  <sub>FRM · CQF · CMA</sub>
+</p>
+
+<p align="center">
   PhD Candidate in Quantitative Finance · Option-Implied Information · Risk-Neutral Density · Tail Risk · Financial Forecasting
 </p>
 
 <p align="center">
-  <a href="https://github.com/XiaodongYangQF">GitHub</a> ·
-  <a href="https://www.smurfitschool.ie/facultyresearch/phdresearch/phdstudents/xiaodongyang/">UCD Profile</a> ·
-  <a href="https://www.linkedin.com/in/xiaodongqf">LinkedIn</a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/XiaodongYangQF">
+    <img src="icons/github_1.svg" alt="GitHub" width="28">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/xiaodongqf">
+    <img src="icons/Linked_in.svg" alt="LinkedIn" width="28">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.smurfitschool.ie/facultyresearch/phdresearch/phdstudents/xiaodongyang/">
+    <img src="icons/website_5.png" alt="Website" width="28">
+  </a>
+  &nbsp;&nbsp;
 </p>
 
 ---
@@ -31,42 +45,18 @@ My GitHub is used as a technical portfolio for quantitative finance, derivatives
 <tr>
 <td width="33%" align="center" valign="top">
 <a href="https://github.com/XiaodongYangQF/quant-finance-pricing-lab">
-<img src="icons/quant-finance-pricing-lab.png" alt="quant-finance-pricing-lab" width="200">
+<img src="icons/quant-finance-pricing-lab.png" alt="quant-finance-pricing-lab" width="300">
 </a>
-<br><br>
-<a href="https://github.com/XiaodongYangQF/quant-finance-pricing-lab">
-<strong>quant-finance-pricing-lab</strong>
-</a>
-<br>
-<sub>Derivatives pricing & numerical methods</sub>
-<br><br>
-<sub>Black-Scholes · Greeks · IV · Binomial Trees · Monte Carlo · Finite Difference</sub>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="https://github.com/XiaodongYangQF/quant-interview-notes">
-<img src="icons/quant-interview-notes.png" alt="quant-interview-notes" width="200">
+<img src="icons/quant-interview-notes.png" alt="quant-interview-notes" width="300">
 </a>
-<br><br>
-<a href="https://github.com/XiaodongYangQF/quant-interview-notes">
-<strong>quant-interview-notes</strong>
-</a>
-<br>
-<sub>Quant interview preparation</sub>
-<br><br>
-<sub>Probability · Stochastic Calculus · Derivatives · Coding</sub>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="https://github.com/XiaodongYangQF/frm-study-notes">
-<img src="icons/frm-study-notes.png" alt="frm-study-notes" width="200">
+<img src="icons/frm-study-notes.png" alt="frm-study-notes" width="300">
 </a>
-<br><br>
-<a href="https://github.com/XiaodongYangQF/frm-study-notes">
-<strong>frm-study-notes</strong>
-</a>
-<br>
-<sub>Financial risk management notes</sub>
-<br><br>
-<sub>Market Risk · Credit Risk · Operational Risk · VaR · ES</sub>
 </td>
 </tr>
 </table>
