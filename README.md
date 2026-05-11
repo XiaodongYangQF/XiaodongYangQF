@@ -5,7 +5,7 @@
 <h1 align="center">Xiaodong Yang</h1>
 
 <p align="center">
-  <sub>FRM · CQF · CMA</sub>
+  <strong>CQF</strong> · <strong>FRM</strong> · <strong>CMA</strong>
 </p>
 
 <p align="center">
