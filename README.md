@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner13_rep.gif" alt="Xiaodong Yang GitHub Banner" width="100%">
+  <img src="Banner13.gif" alt="Xiaodong Yang GitHub Banner" width="100%">
 </p>
 
 <h1 align="center">Xiaodong Yang</h1>
