@@ -115,7 +115,7 @@ At the same time, I am building public GitHub projects to demonstrate my technic
   </a>
   &nbsp;&nbsp;
   <a href="https://www.smurfitschool.ie/facultyresearch/phdresearch/phdstudents/xiaodongyang/">
-    <img src="images/icons/website.png" alt="Website" width="28">
+    <img src="images/icons/website.png" alt="Website" width="30">
   </a>
   &nbsp;&nbsp;
 </p>
