@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner13.gif" alt="Xiaodong Yang GitHub Banner" width="100%">
+  <img src="images/banner/Banner13.gif" alt="Xiaodong Yang GitHub Banner" width="100%">
 </p>
 
 <h1 align="center">Xiaodong Yang</h1>
@@ -40,46 +40,22 @@ My GitHub is used as a technical portfolio for quantitative finance, derivatives
 
 ## Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 <a href="https://github.com/XiaodongYangQF/quant-finance-pricing-lab">
-<img src="icons/quant-finance-pricing-lab.png" alt="quant-finance-pricing-lab" width="200">
+<img src="images/projects/quant-finance-pricing-lab.png" alt="quant-finance-pricing-lab" width="100%">
 </a>
-<br><br>
-<a href="https://github.com/XiaodongYangQF/quant-finance-pricing-lab">
-<strong>quant-finance-pricing-lab</strong>
-</a>
-<br>
-<sub>Derivatives pricing & numerical methods</sub>
-<br><br>
-<sub>Black-Scholes · Greeks · IV · Binomial Trees · Monte Carlo · Finite Difference</sub>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="https://github.com/XiaodongYangQF/quant-interview-notes">
-<img src="icons/quant-interview-notes.png" alt="quant-interview-notes" width="200">
+<img src="images/projects/quant-interview-notes.png" alt="quant-interview-notes" width="100%">
 </a>
-<br><br>
-<a href="https://github.com/XiaodongYangQF/quant-interview-notes">
-<strong>quant-interview-notes</strong>
-</a>
-<br>
-<sub>Quant interview preparation</sub>
-<br><br>
-<sub>Probability · Stochastic Calculus · Derivatives · Coding</sub>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="https://github.com/XiaodongYangQF/frm-study-notes">
-<img src="icons/frm-study-notes.png" alt="frm-study-notes" width="200">
+<img src="images/projects/frm-study-notes.png" alt="frm-study-notes" width="100%">
 </a>
-<br><br>
-<a href="https://github.com/XiaodongYangQF/frm-study-notes">
-<strong>frm-study-notes</strong>
-</a>
-<br>
-<sub>Financial risk management notes</sub>
-<br><br>
-<sub>Market Risk · Credit Risk · Operational Risk · VaR · ES</sub>
 </td>
 </tr>
 </table>
@@ -128,19 +104,19 @@ At the same time, I am building public GitHub projects to demonstrate my technic
 
 <p align="center">
   <a href="https://github.com/XiaodongYangQF">
-    <img src="icons/github_1.svg" alt="GitHub" width="28">
+    <img src="images/icons/github_1.svg" alt="GitHub" width="28">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/xiaodongqf">
-    <img src="icons/Linked_in.svg" alt="LinkedIn" width="28">
+    <img src="images/icons/Linked_in.svg" alt="LinkedIn" width="28">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/yang_xiaodong_/">
-    <img src="icons/instagram_1.svg" alt="Website" width="28">
+    <img src="images/icons/instagram_1.svg" alt="Website" width="28">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.smurfitschool.ie/facultyresearch/phdresearch/phdstudents/xiaodongyang/">
-    <img src="icons/website_5.png" alt="Website" width="28">
+    <img src="images/icons/website_5.png" alt="Website" width="28">
   </a>
   &nbsp;&nbsp;
 </p>
