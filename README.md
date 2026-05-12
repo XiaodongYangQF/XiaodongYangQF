@@ -22,7 +22,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.smurfitschool.ie/facultyresearch/phdresearch/phdstudents/xiaodongyang/">
-    <img src="images/icons/website_5.png" alt="Website" width="32">
+    <img src="images/icons/website.svg" alt="Website" width="32">
   </a>
 </p>
 
@@ -115,7 +115,7 @@ At the same time, I am building public GitHub projects to demonstrate my technic
   </a>
   &nbsp;&nbsp;
   <a href="https://www.smurfitschool.ie/facultyresearch/phdresearch/phdstudents/xiaodongyang/">
-    <img src="images/icons/website_5.png" alt="Website" width="28">
+    <img src="images/icons/website.svg" alt="Website" width="28">
   </a>
   &nbsp;&nbsp;
 </p>
