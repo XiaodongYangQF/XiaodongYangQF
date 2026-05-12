@@ -22,7 +22,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.smurfitschool.ie/facultyresearch/phdresearch/phdstudents/xiaodongyang/">
-    <img src="images/icons/website.png" alt="Website" width="32">
+    <img src="images/icons/website.png" alt="Website" width="34">
   </a>
 </p>
 
