@@ -14,17 +14,16 @@
 
 <p align="center">
   <a href="https://github.com/XiaodongYangQF">
-    <img src="icons/github_1.svg" alt="GitHub" width="28">
+    <img src="images/icons/github_1.svg" alt="GitHub" width="32">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/xiaodongqf">
-    <img src="icons/Linked_in.svg" alt="LinkedIn" width="28">
+    <img src="images/icons/Linked_in.svg" alt="LinkedIn" width="32">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.smurfitschool.ie/facultyresearch/phdresearch/phdstudents/xiaodongyang/">
-    <img src="icons/website_5.png" alt="Website" width="28">
+    <img src="images/icons/website_5.png" alt="Website" width="32">
   </a>
-  &nbsp;&nbsp;
 </p>
 
 ---
