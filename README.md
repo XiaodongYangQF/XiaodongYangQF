@@ -110,10 +110,6 @@ At the same time, I am building public GitHub projects to demonstrate my technic
     <img src="images/icons/Linked_in.svg" alt="LinkedIn" width="28">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/yang_xiaodong_/">
-    <img src="images/icons/instagram_1.svg" alt="Website" width="28">
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.smurfitschool.ie/facultyresearch/phdresearch/phdstudents/xiaodongyang/">
     <img src="images/icons/website.png" alt="Website" width="30">
   </a>
